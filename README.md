@@ -1,8 +1,8 @@
 <h1 align="center"> Landing Page Itaú Clone </h1>
 
-<p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-</p>
+</br>
+<img src="/preview.png" width="100%"></img>
+</br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
