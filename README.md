@@ -11,6 +11,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React/Next
+- Typescript
 - Javascript
 - Tailwind CSS
 
